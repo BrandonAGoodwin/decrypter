@@ -1,0 +1,13 @@
+/classes/
+/bin/
+*.class
+.project
+.idea/
+*.ipr
+*.iws
+*.iml
+.vscode/
+.classpath
+.metadata/
+.gradle/
+.settings/
